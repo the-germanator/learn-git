@@ -1,0 +1,25 @@
+{
+    "cars": [
+        {
+            "make": "Subaru",
+            "model": "Crosstrek",
+            "year": 2023,
+            "trims": [
+                "standard",
+                "sport",
+                "limited",
+                "premium"
+            ]
+        },
+        {
+            "make": "VW",
+            "model": "Jetta",
+            "year": 2014,
+            "trims": [
+                "standard",
+                "se",
+                "sel"
+            ]
+        }
+    ]   
+}
