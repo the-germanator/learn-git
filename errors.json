@@ -1,0 +1,27 @@
+{
+    "treats": [
+        {
+            "type": "dental",
+            "color": "green",
+            'name': 'Greenie'
+
+        }
+        {
+            "type": "snack"
+            "color": "grey",
+            "name": "k9 Carry-Outs",
+        }
+    ],
+    "food": [
+        "human": {
+            "type": "pizza",
+            "caloies": "too many"
+        },
+        "dog": {
+            "type": "wet",
+            "calories": "200"
+        }
+    ],
+    "isGoodGirl": "true",
+    "weight": "200"
+}
