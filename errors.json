@@ -3,16 +3,15 @@
         {
             "type": "dental",
             "color": "green",
-            'name': 'Greenie'
-
-        }
+            "name": "Greenie"
+        },
         {
-            "type": "snack"
+            "type": "snack",
             "color": "grey",
-            "name": "k9 Carry-Outs",
+            "name": "k9 Carry-Outs"
         }
     ],
-    "food": [
+    "food": {
         "human": {
             "type": "pizza",
             "caloies": "too many"
@@ -21,7 +20,7 @@
             "type": "wet",
             "calories": "200"
         }
-    ],
-    "isGoodGirl": "true",
-    "weight": "200"
+    },
+    "isGoodGirl": true,
+    "weight": 200
 }
