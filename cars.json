@@ -3,12 +3,22 @@
         {
             "make": "Subaru",
             "model": "Crosstrek",
-            "year": 2023,
+            "year": 2023
         },
         {
             "make": "VW",
             "model": "Jetta",
-            "year": 2014,
+            "year": 2014
         }
-    ]   
+        {
+            "make": "Ford",
+            "model": "Escape",
+            "year": 2013
+        }
+        {
+            "make": "Toyola",
+            "model": "4Runner",
+            "year": 2002
+        }
+    ]
 }
